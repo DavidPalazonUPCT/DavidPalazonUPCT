@@ -19,5 +19,17 @@ El prompt menciona un informe de revisión bibliográfica "si está en el repo c
 ## Q5 — Directores y línea del programa
 El v36 encuadra la tesis en la "línea de **Tecnologías Multimedia**" (P043). El acta no lo menciona. Lo conservo salvo que indiques lo contrario; solo retiro el marco **IIoT** que el acta manda purgar.
 
+## Q6 — LLM como capa de explicación (P093 v36)
+El v36 menciona los LLM como capa de explicación en lenguaje natural, ya acotada como "fuera del alcance central". **Decisión por defecto:** la conservo como **una sola frase de trabajo futuro**, sin introducir NLP/LLM como objeto (el acta no lo contempla). ¿Eliminar del todo o mantener esa frase?
+
+## Q7 — "Gemelos digitales" vía Karabulut et al. (2023)
+La referencia se conserva como revisión de ontologías (soporte del hilo de transferibilidad), pero el sintagma "gemelos digitales" podría abrir un frente ajeno. **Decisión por defecto:** acoto la cita a "revisiones de ontologías" sin invocar *digital twins* como línea. ¿De acuerdo?
+
+## Q8 — Discrepancia de metadato: Umer et al. (2020)
+El plan v36 cita Umer et al. (2020) como IJCIP **28, 100356**; el acta lo lista como **28:100341**. Uno de los dos está mal. Lo dejo marcado **[VERIFICAR MANUALMENTE]**; no pude resolverlo (IEEE/Elsevier devuelven 403). Confírmame el número de artículo correcto.
+
+## Q9 — Sección nueva de Posicionamiento y renumeración
+El acta §8 pide una sección de **posicionamiento frente a trabajos solapados** (tabla) que el v36 no tenía. **Decisión por defecto:** la inserto como **sección 5 "Posicionamiento frente al estado del arte"**, con lo que "Interés científico" pasa a 6 (lo fusiono con "Aplicabilidad") y "Bibliografía" a 7. Las referencias cruzadas internas (3.x, 4.x) no cambian. ¿De acuerdo con esta ubicación?
+
 ---
 *(Se añadirán entradas conforme surjan en FASE 2.)*
