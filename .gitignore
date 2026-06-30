@@ -1,0 +1,3 @@
+# Transcripts y temporales
+*.tmp
+__pycache__/
