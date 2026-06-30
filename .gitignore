@@ -1,3 +1,5 @@
 # Transcripts y temporales
 *.tmp
 __pycache__/
+trabajo/check_v37/
+trabajo/docx_unzip/
