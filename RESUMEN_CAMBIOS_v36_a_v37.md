@@ -4,6 +4,19 @@
 > Entregables: `Plan_Investigacion_v37.docx` (autoritativo) · `Plan_Investigacion_v37_preview.pdf` (vista) ·
 > este resumen · `PREGUNTAS_PENDIENTES.md`. Texto de trabajo en `trabajo/plan_v37.md`.
 
+## Actualización a Acta v3 (reenfoque del rol del detector)
+Sobre la base v2 ya redactada, se aplicó el **acta v3**, que **descompromete el mecanismo del detector**:
+- **Asociaciones condicionadas al régimen: de «mecanismo» a «hipótesis-lente falsable».** Ya no es el método del detector, sino una conjetura sobre *qué propiedad* hace robusto a un detector frente a la brecha. Se pone a prueba en WP2 frente a **todas las familias en régimen semi-supervisado** y **puede resultar falsa** (resultado válido). — §1 (resumen), §2.2 (hipótesis), §5, §6.
+- **WP1 reenfocado como «revisión-con-tesis» en dos capas:** (i) mapeo de los mejores detectores semi-supervisados por familias; (ii) auditoría crítica de su evaluación con **criterios pre-especificados**, que produce **dos listas de baselines** (bien evaluados = referencia; reputados pero mal evaluados = candidatos a re-evaluación). — §2.1 obj. 2, §4.3 WP1, §4.2 (selección de baselines).
+- **WP2** ahora **re-evalúa los baselines auditados** y **contrasta la hipótesis-lente** (¿los modelos más robustos capturan estructura relacional condicionada al régimen?), con **veredicto** explícito. — §2.1 obj. 3, §4.3 WP2.
+- **WP3 condicionado a la evidencia de WP1+WP2**, **sin prejuzgar su mecanismo**. — §2.1 obj. 4, §4.3 WP3.
+- **Interpretabilidad = consecuencia condicionada** (solo si la lente se sostiene). — §2.2, §3.6.
+- Cronograma: etiquetas WP1/WP2/WP3 actualizadas (auditoría de baselines / prueba de la lente / propuesta condicionada).
+
+*(Sin cambios en la bibliografía: el reenfoque es conceptual, no añade ni retira referencias; siguen 84 entradas sin huérfanas.)*
+
+---
+
 ## Cómo se hizo (trazabilidad)
 - **FASE 0–1:** extracción del v36, checklist del acta (`CHECKLIST_ACTA.md`), y verificación con 5 subagentes en paralelo (`verificacion/V1…V5.md` → `INFORME_CONSOLIDADO.md`).
 - **FASE 2:** redacción secuencial sección por sección (`trabajo/plan_v37.md`).
